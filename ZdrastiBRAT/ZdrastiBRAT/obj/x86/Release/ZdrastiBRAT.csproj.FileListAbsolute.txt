@@ -1,5 +1,0 @@
-D:\AULA\primeri.csharp.terminal\ZdrastiBRAT\ZdrastiBRAT\bin\Release\ZdrastiBRAT.exe
-D:\AULA\primeri.csharp.terminal\ZdrastiBRAT\ZdrastiBRAT\bin\Release\ZdrastiBRAT.pdb
-D:\AULA\primeri.csharp.terminal\ZdrastiBRAT\ZdrastiBRAT\obj\x86\Release\ZdrastiBRAT.csprojResolveAssemblyReference.cache
-D:\AULA\primeri.csharp.terminal\ZdrastiBRAT\ZdrastiBRAT\obj\x86\Release\ZdrastiBRAT.exe
-D:\AULA\primeri.csharp.terminal\ZdrastiBRAT\ZdrastiBRAT\obj\x86\Release\ZdrastiBRAT.pdb
